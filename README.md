@@ -1,2 +1,2 @@
 # stargazers-log
-Repo tut
+a list of starred repos
